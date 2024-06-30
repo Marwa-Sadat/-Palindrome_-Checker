@@ -24,4 +24,3 @@ document.getElementById('check-btn').onclick = function handleCheckButtonClick()
   function checkPalindrome(str) {
     return str === str.split('').reverse().join('');
   }
-  
