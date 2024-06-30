@@ -1,4 +1,4 @@
-document.getElementById('check-btn').onclick = function handleCheckButtonClick() {
+document.getElementById('check-btn').onclick = function() {
     const input = document.getElementById('text-input').value;
     const resultDiv = document.getElementById('result');
   
@@ -23,4 +23,4 @@ document.getElementById('check-btn').onclick = function handleCheckButtonClick()
   
   function checkPalindrome(str) {
     return str === str.split('').reverse().join('');
-  }
+  }  
