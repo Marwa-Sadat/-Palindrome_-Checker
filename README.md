@@ -117,8 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This project was created and maintained by Marwa Sadat. For more information, visit her [LinkedIn](https://www.linkedin.com/in/marwa-sadat-09b55930a).
-
-For any further questions or assistance, feel free to open an issue or contact the project maintainers.
-
-Happy Coding!
-
