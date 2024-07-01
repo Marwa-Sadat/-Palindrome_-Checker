@@ -115,5 +115,3 @@ We welcome contributions to this project! If you have an idea for a new feature 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This project was created and maintained by Marwa Sadat. For more information, visit her [LinkedIn](https://www.linkedin.com/in/marwa-sadat-09b55930a).
