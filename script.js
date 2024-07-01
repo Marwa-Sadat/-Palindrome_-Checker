@@ -19,8 +19,8 @@ document.getElementById('check-btn').onclick = function () {
   const isPalindrome = checkPalindrome(cleanedInput);
 
   if (isPalindrome) {
-    resultDiv.textContent = `${input} is a palindrome`; 
+    resultDiv.textContent = `${input} is a palindrome`;
   } else {
-    resultDiv.textContent = `${input} is not a palindrome`; 
+    resultDiv.textContent = `${input} is not a palindrome`;
   }
 };
