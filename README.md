@@ -1,6 +1,4 @@
 
-
-markdown
 # Palindrome Checker
 
 A simple and efficient Palindrome Checker written in [Your Programming Language]. This tool allows users to check if a given string is a palindrome (a word, phrase, number, or other sequence of characters that reads the same forward and backward, ignoring spaces, punctuation, and capitalization).
@@ -30,85 +28,60 @@ Follow the steps below to install and run the Palindrome Checker on your local m
 ### Steps
 
 1. **Clone the Repository**:
-    bash
-    git clone https://github.com/yourusername/palindrome-checker.git
-    cd palindrome-checker
-    
-
-2. **Install Dependencies**:
-    If there are any dependencies, list them here and provide installation instructions. For example:
-    bash
-    pip install -r requirements.txt
-    
-    Or, if there are no dependencies, you can skip this step.
-
-3. **Run the Program**:
-    bash
-    python palindrome_checker.py
-    
-
+  bash
+  git clone https://github.com/Marwa-Sadat/-Palindrome_-Checker.git
+  cd palindrome-checker
+  
 ## Usage
 
 After installation, you can use the Palindrome Checker as follows:
 
-1. **Run the Program**:
-    bash
-    python palindrome_checker.py
-    
+1. *Run the Program*:
+    Open index.html from the root folder in your web browser.
 
 2. **Input a String**:
-    Enter the string you want to check when prompted.
+  Enter the string you want to check when prompted.
 
 3. **View the Result**:
-    The program will output whether the given string is a palindrome or not.
-
-## Example
-
-Here is an example of how to use the Palindrome Checker:
-
-bash
-$ python palindrome_checker.py
-Enter the string to check: A man a plan a canal Panama
-The string is a palindrome!
-
+  The program will output whether the given string is a palindrome or not.
 
 ## Demo
 
-![Demo](https://private-user-images.githubusercontent.com/168111110/344379010-90dc49e6-f19b-4c93-8fab-c1822c441425.png?)
+![Demo](https://github.com/Marwa-Sadat/-Palindrome_-Checker/assets/168111110/83e8bab0-4737-46bb-a56a-2b946cc94373)
 
 ## Contributing
 
 We welcome contributions to this project! If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request. Follow the steps below to contribute:
 
 1. **Fork the Repository**:
-    Click the 'Fork' button at the top right corner of this repository.
+  Click the 'Fork' button at the top right corner of this repository.
 
 2. **Clone Your Fork**:
-    bash
-    git clone https://github.com/yourusername/palindrome-checker.git
-    cd palindrome-checker
-    
+  bash
+  git clone https://github.com/Marwa-Sadat/-Palindrome_-Checker.git
+  cd palindrome-checker
+  
 
 3. **Create a New Branch**:
-    bash
-    git checkout -b feature/your-feature-name
-    
+  bash
+  git checkout -b feature/-Palindrome_-Checkerg
+  
 
 4. **Make Your Changes**:
-    Implement your feature or bug fix.
+  Implement your feature or bug fix.
 
 5. **Commit Your Changes**:
-    bash
-    git commit -m "Add your commit message here"
-    
+  bash
+  git commit -m "Add your commit message here"
+  
 
 6. **Push to Your Fork**:
-    bash
-    git push origin feature/your-feature-name
-    
+  bash
+  git push origin feature/your-feature-name
+  
 
 7. **Open a Pull Request**:
-    Go to the original repository and click the 'New Pull Request' button.
+  Go to the original repository and click the 'New Pull Request' button.
 
 ## License
 
